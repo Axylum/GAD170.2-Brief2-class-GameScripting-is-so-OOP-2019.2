@@ -789,10 +789,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa2bf1e1175c6654b8cb87b0dcda8fd6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  heroLibrary: []
-  monsterLibrary: []
-  heroSpawnPoints: []
-  monsterSpawnPoints: []
+  heroLibrary:
+  - {fileID: 2853031085477564762, guid: c986be5d720aebc4884f339bc2d62403, type: 3}
+  - {fileID: 696344219261434858, guid: 9d3c66d67bdbbd542acaa7921b860768, type: 3}
+  - {fileID: 7041252358979974506, guid: 61cb73be011687d4082c670727256514, type: 3}
+  - {fileID: 3085421776549461610, guid: 88aa744c82771b640b1bac692fa7a406, type: 3}
+  - {fileID: 2034777283159237659, guid: b3fbf537a4792b64ba2a07f1b1108eae, type: 3}
+  - {fileID: 7603186542331702824, guid: de48266b1df05ab4db871c72345c63ee, type: 3}
+  - {fileID: 406622538415487281, guid: 2fae5a529cef7ab449e79a9da6d5745f, type: 3}
+  - {fileID: 5042422520547233040, guid: b71853358c12d574e81573e9227bddd5, type: 3}
+  - {fileID: 7575664060802243873, guid: 5f7219251aa321b4297829f40be67b7d, type: 3}
+  - {fileID: 2546279207224781796, guid: 88b427ebee11ddc46a07bf5547ca28a9, type: 3}
+  monsterLibrary:
+  - {fileID: 1728764422300266428, guid: f7499044a0c2ef540b91cad474b85fb2, type: 3}
+  - {fileID: 2794261958094105835, guid: b4d1f0908d3246340a0fba9adb4902f7, type: 3}
+  - {fileID: 256198495437489573, guid: 4179fcdf146e3b94c823e07c6bfd3e2e, type: 3}
+  - {fileID: 1358719363742375203, guid: 22b272142da65424dad92143a03bff6c, type: 3}
+  - {fileID: 3479220842009362284, guid: 03c912f317a436747b4f8d5dd0942b9f, type: 3}
+  - {fileID: 5750390731057977949, guid: 3903fa35c13a2cb4e963c565df94d4f9, type: 3}
+  - {fileID: 4559867406406118237, guid: 0777986918dac1d4db03eeb32ac6d6a7, type: 3}
+  - {fileID: 5172752437018879155, guid: d1ad993da21b8ca4893d4f4e6811f56c, type: 3}
+  - {fileID: 1585423435729035862, guid: 3c256752fd4d1044da8cb9764e58844c, type: 3}
+  - {fileID: 1010870638468607664, guid: 2d113122b15acaa4b8ebd9b99486564f, type: 3}
+  heroSpawnPoints:
+  - {fileID: 1036653964}
+  - {fileID: 1406130232}
+  - {fileID: 1164783858}
+  monsterSpawnPoints:
+  - {fileID: 2014948470}
+  - {fileID: 1842186815}
+  - {fileID: 385042840}
   ouputLog: {fileID: 660778974}
 --- !u!4 &1592561281
 Transform:
